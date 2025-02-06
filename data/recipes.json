@@ -1,0 +1,39 @@
+{
+    "recipes": [
+        {
+            "name": "bread",
+            "ingredients": [
+            {
+                "name": "flour",
+                "amount": "200 g."
+            },
+            {
+                "name": "salt",
+                "amount": "5 g."
+            },
+            {
+                "name": "water",
+                "amount": "2 dl."
+            }
+            ]
+        },
+    
+        {
+            "name": "Lasagne",
+            "ingredients": [
+            {
+                "name": "Tomatoes",
+                "amount": "4 stk."
+            },
+            {
+                "name": "Minced meat",
+                "amount": "5 g."
+            },
+            {
+                "name": "pasta sheets",
+                "amount": "2 dl."
+            }
+            ]
+        }
+    ]
+}
